@@ -13,6 +13,25 @@ Containers serve as essential components in Bootstrap, serving a crucial role th
 
 * Bootstrap 5 Doc: [Container Doc](https://getbootstrap.com/docs/5.3/layout/containers/)
 
-* Example: [Container Example](01-containers.html)
+* Example: [Container Example](bootstrap-5/containers.html)
 
 ---
+
+### Content
+
+#### Typography
+
+Typography simplify the design and formatting of textual content. Offering predefined styles and classes for headings, paragraphs, lists, body text, and more. Easily control font sizes, styles, and spacing to ensure consistent and visually pleasing text across different devices and screen sizes.
+
+* Bootstrap 5 Doc: [Typography Doc](https://getbootstrap.com/docs/5.3/content/typography/)
+
+* Example: [Typography Example](bootstrap-5/typography.html)
+
+---
+
+---
+---
+
+## References
+
+* [Mussum Ipsum](https://mussumipsum.com/)
