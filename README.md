@@ -35,6 +35,18 @@ Typography simplify the design and formatting of textual content. Offering prede
 
 ### Utilities
 
+#### Background & Text Colors
+
+Utility classes for setting the background color and text color of elements, can quickly apply predefined background and text colors from Bootstrap's color palette to elements.
+
+* Bootstrap 5 Doc: [Background Doc](https://getbootstrap.com/docs/5.3/utilities/background/)
+
+* Bootstrap 5 Doc: [Colors Doc](https://getbootstrap.com/docs/5.3/utilities/colors/)
+
+* Example: [Background and Text Colors Example](bootstrap-5/background_text_colors.html)
+
+---
+
 #### Display & Position
 
 **Display** utility classes controls the visibility and display behavior of elements. Allowing to show or hide elements, adjust their visibility based on different device sizes, and modify their display properties.\
@@ -42,7 +54,7 @@ Typography simplify the design and formatting of textual content. Offering prede
 
 * Bootstrap 5 Doc: [Display Doc](https://getbootstrap.com/docs/5.3/utilities/display/)
 
-* Bootstrap 5 Doc: [Display Doc](https://getbootstrap.com/docs/5.3/utilities/position/)
+* Bootstrap 5 Doc: [Position Doc](https://getbootstrap.com/docs/5.3/utilities/position/)
 
 * Example: [Display and Position Example](bootstrap-5/display_and_position.html)
 
