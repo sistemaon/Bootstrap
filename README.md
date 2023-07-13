@@ -16,6 +16,7 @@ Containers serve as essential components in Bootstrap, serving a crucial role th
 * Example: [Container Example](bootstrap-5/containers.html)
 
 ---
+---
 
 ### Content
 
@@ -28,6 +29,22 @@ Typography simplify the design and formatting of textual content. Offering prede
 * Example: [Typography Example](bootstrap-5/typography.html)
 
 ---
+
+---
+---
+
+### Utilities
+
+#### Display & Position
+
+**Display** utility classes controls the visibility and display behavior of elements. Allowing to show or hide elements, adjust their visibility based on different device sizes, and modify their display properties.\
+**Position** utility classes controls the positioning and placing behavior of elements. Allowing to configure the position of an element, adjust their setting based on different device sizes, and modify their placing properties.
+
+* Bootstrap 5 Doc: [Display Doc](https://getbootstrap.com/docs/5.3/utilities/display/)
+
+* Bootstrap 5 Doc: [Display Doc](https://getbootstrap.com/docs/5.3/utilities/position/)
+
+* Example: [Display and Position Example](bootstrap-5/display_and_position.html)
 
 ---
 ---
