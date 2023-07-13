@@ -59,6 +59,18 @@ Utility classes for setting the background color and text color of elements, can
 * Example: [Display and Position Example](bootstrap-5/display_and_position.html)
 
 ---
+
+#### Spacing
+
+Spacing utility classes may easily manage and adjust the spacing within and between elements, providing a simple and efficient way to create well-spaced and visually pleasing layouts.
+
+* Bootstrap 5 Doc: [Spacing Doc](https://getbootstrap.com/docs/5.3/utilities/spacing/)
+
+* Example: [Spacing Example](bootstrap-5/spacing.html)
+
+---
+
+---
 ---
 
 ## References
