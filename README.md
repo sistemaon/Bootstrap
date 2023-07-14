@@ -14,7 +14,7 @@ Predefined device sizes or viewport widths at adjusting the layout, responding e
 
 * Bootstrap 5 Doc: [Breakpoints Doc](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
 
-* Example: [Typography Example](bootstrap-5/breakpoints.html)
+* Example: [Breakpoints Example](bootstrap-5/breakpoints.html)
 
 ---
 
