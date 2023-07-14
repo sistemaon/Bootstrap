@@ -8,6 +8,16 @@ CSS Framework Bootstrap
 
 ### Layout
 
+#### Breakpoints
+
+Predefined device sizes or viewport widths at adjusting the layout, responding effectively to different screen sizes, allowing to create flexible and adaptive layouts.
+
+* Bootstrap 5 Doc: [Breakpoints Doc](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+
+* Example: [Typography Example](bootstrap-5/breakpoints.html)
+
+---
+
 #### Containers
 
 Containers serve as essential components in Bootstrap, serving a crucial role that contain, pad, align, and arrange content within a designated device or screen area. Essentially, they provide a structured framework for organizing and formatting your content in a visually pleasing and responsive manner based on the available space.
