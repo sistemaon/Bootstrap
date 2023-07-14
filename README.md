@@ -1,4 +1,5 @@
 # Bootstrap
+
 CSS Framework Bootstrap
 
 ---
@@ -49,7 +50,8 @@ Utility classes for setting the background color and text color of elements, can
 
 #### Display & Position
 
-**Display** utility classes controls the visibility and display behavior of elements. Allowing to show or hide elements, adjust their visibility based on different device sizes, and modify their display properties.\
+**Display** utility classes controls the visibility and display behavior of elements. Allowing to show or hide elements, adjust their visibility based on different device sizes, and modify their display properties.
+
 **Position** utility classes controls the positioning and placing behavior of elements. Allowing to configure the position of an element, adjust their setting based on different device sizes, and modify their placing properties.
 
 * Bootstrap 5 Doc: [Display Doc](https://getbootstrap.com/docs/5.3/utilities/display/)
@@ -70,9 +72,29 @@ Spacing utility classes may easily manage and adjust the spacing within and betw
 
 ---
 
+#### Border, Shadow & Size
+
+**Border** style the border and border-radius of an element. Add, remove, or customize borders for elements, control specific border sides and add rounded borders, can enhance the visual appeal and structure of elements.
+
+**Shadow** add or remove shadows to elements, allowing to create a visual effect of depth and elevation, enhancing the visual appearance of elements.
+
+**Size** adjust the size of elements, controling the visual dimensions and proportions of elements.
+
+* Bootstrap 5 Doc: [Border Doc](https://getbootstrap.com/docs/5.3/utilities/borders/)
+
+* Bootstrap 5 Doc: [Shadow Doc](https://getbootstrap.com/docs/5.3/utilities/shadows/)
+
+* Bootstrap 5 Doc: [Size Doc](https://getbootstrap.com/docs/5.3/utilities/sizing/)
+
+* Example: [Border and Shadow and Size Example](bootstrap-5/border_and_shadow_and_size.html)
+
+---
+
 ---
 ---
 
 ## References
+
+* [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 * [Mussum Ipsum](https://mussumipsum.com/)
