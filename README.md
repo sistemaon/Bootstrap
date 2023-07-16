@@ -68,13 +68,21 @@ Containers serve as essential components in Bootstrap, serving a crucial role th
 
 ---
 
-#### Grid & Columns
+#### Grid
  
-Containers serve as essential components in Bootstrap, serving a crucial role that contain, pad, align, and arrange content within a designated device or screen area. Essentially, they provide a structured framework for organizing and formatting your content in a visually pleasing and responsive manner based on the available space.
+Grid structure that allows to create well-organized and responsive layouts that adapts to various devices and screen sizes. Based on a 12-column structure, where the page width is divided into 12 equal-width columns, facilitating consistent and visually pleasing designs.
 
 * Bootstrap 5 Doc: [Grid Doc](https://getbootstrap.com/docs/5.3/layout/grid/)
 
-* Bootstrap 5 Doc: [Container Doc](https://getbootstrap.com/docs/5.3/layout/containers/)
+* Example: [Grid and Columns Example](bootstrap-5/grid_and_columns.html)
+
+---
+
+#### Columns
+ 
+Columns are a key component of the grid system used for creating responsive layouts, allows to divide the page width into multiple sections, providing a flexible and dynamic way to arrange content, adapting to different screen sizes and devices.
+
+* Bootstrap 5 Doc: [Columns Doc](https://getbootstrap.com/docs/5.3/layout/columns/)
 
 * Example: [Grid and Columns Example](bootstrap-5/grid_and_columns.html)
 
