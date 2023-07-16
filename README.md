@@ -2,6 +2,8 @@
 
 CSS Framework Bootstrap
 
+> Provides a collection of pre-built CSS styles, components, and JavaScript plugins that helps to create responsive and visually appealing templates, layouts, web pages and applications.
+
 ---
 
 ## Bootstrap 5
@@ -65,6 +67,18 @@ Containers serve as essential components in Bootstrap, serving a crucial role th
 * Example: [Container Example](bootstrap-5/containers.html)
 
 ---
+
+#### Grid & Columns
+ 
+Containers serve as essential components in Bootstrap, serving a crucial role that contain, pad, align, and arrange content within a designated device or screen area. Essentially, they provide a structured framework for organizing and formatting your content in a visually pleasing and responsive manner based on the available space.
+
+* Bootstrap 5 Doc: [Grid Doc](https://getbootstrap.com/docs/5.3/layout/grid/)
+
+* Bootstrap 5 Doc: [Container Doc](https://getbootstrap.com/docs/5.3/layout/containers/)
+
+* Example: [Grid and Columns Example](bootstrap-5/grid_and_columns.html)
+
+---
 ---
 
 ### Content
@@ -84,7 +98,7 @@ Typography simplify the design and formatting of textual content. Offering prede
 
 ### Utilities
 
-#### Background & Text Colors
+#### Background & Columns  Text Colors
 
 Utility classes for setting the background color and text color of elements, can quickly apply predefined background and text colors from Bootstrap's color palette to elements.
 
@@ -96,7 +110,7 @@ Utility classes for setting the background color and text color of elements, can
 
 ---
 
-#### Display & Position
+#### Display & Columns  Position
 
 **Display** utility classes controls the visibility and display behavior of elements. Allowing to show or hide elements, adjust their visibility based on different device sizes, and modify their display properties.
 
@@ -120,7 +134,7 @@ Spacing utility classes may easily manage and adjust the spacing within and betw
 
 ---
 
-#### Border, Shadow & Size
+#### Border, Shadow & Columns  Size
 
 **Border** style the border and border-radius of an element. Add, remove, or customize borders for elements, control specific border sides and add rounded borders, can enhance the visual appeal and structure of elements.
 
