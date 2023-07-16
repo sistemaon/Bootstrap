@@ -10,7 +10,7 @@ CSS Framework Bootstrap
 
 #### Buttons
 
-Predefined device sizes or viewport widths at adjusting the layout, responding effectively to different screen sizes, allowing to create flexible and adaptive layouts.
+Create various button-related components to create interactive elements, clickable buttons with different styles and sizes. _Button Group_ groups related buttons together, _Button Toolbar_ organizes button groups in a visually aligned manner, _Dropdown Button_ combines a button with a dropdown menu and the _Split Button Dropdown_ combines a regular button with a separate dropdown button for secondary options.
 
 * Bootstrap 5 Doc: [Buttons Doc](https://getbootstrap.com/docs/5.3/components/buttons/)
 
