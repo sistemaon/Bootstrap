@@ -6,6 +6,19 @@ CSS Framework Bootstrap
 
 ## Bootstrap 5
 
+### Components
+
+#### Buttons
+
+Predefined device sizes or viewport widths at adjusting the layout, responding effectively to different screen sizes, allowing to create flexible and adaptive layouts.
+
+* Bootstrap 5 Doc: [Buttons Doc](https://getbootstrap.com/docs/5.3/components/buttons/)
+
+* Example: [Buttons Example](bootstrap-5/buttons.html)
+
+---
+---
+
 ### Layout
 
 #### Breakpoints
