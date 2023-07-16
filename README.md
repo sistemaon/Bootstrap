@@ -29,6 +29,21 @@ Navigation header, used to create a responsive navigation bar or menu, provides 
 ---
 ---
 
+### Customize
+
+#### Dark Mode and Variables
+
+Can implement own color mode toggle or themes, applying different color modes styling templates. Customizing Bootstrap's variables.
+
+* Bootstrap 5 Doc: [Dark Mode Doc](https://getbootstrap.com/docs/5.3/customize/color-modes/#dark-mode)
+
+* Bootstrap 5 Doc: [Variables Doc](https://getbootstrap.com/docs/5.3/customize/color-modes/#variables)
+
+* Example: [Dark Mode and Variables Example](bootstrap-5/darkmode_and_variables.html)
+
+---
+---
+
 ### Layout
 
 #### Breakpoints
