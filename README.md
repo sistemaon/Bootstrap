@@ -10,13 +10,13 @@ CSS Framework Bootstrap
 
 ### Components
 
-#### Cards
+#### Badges
 
-Display content in a flexible and visually appealing manner, providing a container to organize and present various types of information such as text, images, and links in a consistent and structured format.
+Visually highlight or display additional information alongside a piece of content, used to provide context, status, or notification indicators.
 
-* Bootstrap 5 Doc: [Cards Doc](https://getbootstrap.com/docs/5.3/components/card/)
+* Bootstrap 5 Doc: [Badges Doc](https://getbootstrap.com/docs/5.3/components/badge/)
 
-* Example: [Cards Example](bootstrap-5/cards.html)
+* Example: [Badges Example](bootstrap-5/list_groups_and_badges.html)
 
 ---
 
@@ -27,6 +27,26 @@ Create various button-related components to create interactive elements, clickab
 * Bootstrap 5 Doc: [Buttons Doc](https://getbootstrap.com/docs/5.3/components/buttons/)
 
 * Example: [Buttons Example](bootstrap-5/buttons.html)
+
+---
+
+#### Cards
+
+Display content in a flexible and visually appealing manner, providing a container to organize and present various types of information such as text, images, and links in a consistent and structured format.
+
+* Bootstrap 5 Doc: [Cards Doc](https://getbootstrap.com/docs/5.3/components/card/)
+
+* Example: [Cards Example](bootstrap-5/cards.html)
+
+---
+
+#### List Groups
+
+Displays a collection of items in a structured and visually appealing manner, allowing to present and organize a list of related items such as user profiles, product features, or navigation options, in a cohesive format.
+
+* Bootstrap 5 Doc: [List Groups Doc](https://getbootstrap.com/docs/5.3/components/list-group/)
+
+* Example: [List Groups Example](bootstrap-5/list_groups_and_badges.html)
 
 ---
 
