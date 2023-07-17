@@ -100,8 +100,6 @@ Typography simplify the design and formatting of textual content. Offering prede
 * Example: [Typography Example](bootstrap-5/typography.html)
 
 ---
-
----
 ---
 
 ### Utilities
@@ -118,7 +116,7 @@ Utility classes for setting the background color and text color of elements, can
 
 ---
 
-#### Display & Columns  Position
+#### Display & Columns Position
 
 **Display** utility classes controls the visibility and display behavior of elements. Allowing to show or hide elements, adjust their visibility based on different device sizes, and modify their display properties.
 
@@ -132,6 +130,16 @@ Utility classes for setting the background color and text color of elements, can
 
 ---
 
+#### Flex
+
+Apply flexible and responsive layout behaviors based on CSS Flexbox, control the alignment, positioning, and resizing of elements within a container. Create dynamic and adaptable layouts that adjust to different screen sizes and devices.
+
+* Bootstrap 5 Doc: [Flex Doc](https://getbootstrap.com/docs/5.3/utilities/flex/)
+
+* Example: [Flex Example](bootstrap-5/flexbox.html)
+
+---
+
 #### Spacing
 
 Spacing utility classes may easily manage and adjust the spacing within and between elements, providing a simple and efficient way to create well-spaced and visually pleasing layouts.
@@ -142,7 +150,7 @@ Spacing utility classes may easily manage and adjust the spacing within and betw
 
 ---
 
-#### Border, Shadow & Columns  Size
+#### Border, Shadow & Columns Size
 
 **Border** style the border and border-radius of an element. Add, remove, or customize borders for elements, control specific border sides and add rounded borders, can enhance the visual appeal and structure of elements.
 
@@ -157,8 +165,6 @@ Spacing utility classes may easily manage and adjust the spacing within and betw
 * Bootstrap 5 Doc: [Size Doc](https://getbootstrap.com/docs/5.3/utilities/sizing/)
 
 * Example: [Border and Shadow and Size Example](bootstrap-5/border_and_shadow_and_size.html)
-
----
 
 ---
 ---
