@@ -84,7 +84,7 @@ Build various types of forms, including registration, login, profile pages and m
 
 **Form Control** Style textual inputs and textareas with support for multiple states.\
 **Select** Improve browser default select elements with a custom initial appearance.\
-**Checks & Ratios** Use our custom radio buttons and checkboxes in forms for selecting input options.\
+**Checks & Radios** Use our custom radio buttons and checkboxes in forms for selecting input options.\
 **Range** Replace browser default range inputs with our custom version.\
 **Input Group** Attach labels and buttons to your inputs for increased semantic value.\
 **Floating Labels** Create beautifully simple form labels that float over your input fields.\
