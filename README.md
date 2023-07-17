@@ -10,6 +10,16 @@ CSS Framework Bootstrap
 
 ### Components
 
+#### Cards
+
+Display content in a flexible and visually appealing manner, providing a container to organize and present various types of information such as text, images, and links in a consistent and structured format.
+
+* Bootstrap 5 Doc: [Cards Doc](https://getbootstrap.com/docs/5.3/components/card/)
+
+* Example: [Cards Example](bootstrap-5/cards.html)
+
+---
+
 #### Buttons
 
 Create various button-related components to create interactive elements, clickable buttons with different styles and sizes. _Button Group_ groups related buttons together, _Button Toolbar_ organizes button groups in a visually aligned manner, _Dropdown Button_ combines a button with a dropdown menu and the _Split Button Dropdown_ combines a regular button with a separate dropdown button for secondary options.
@@ -116,6 +126,24 @@ Utility classes for setting the background color and text color of elements, can
 
 ---
 
+#### Border, Shadow & Columns Size
+
+**Border** style the border and border-radius of an element. Add, remove, or customize borders for elements, control specific border sides and add rounded borders, can enhance the visual appeal and structure of elements.
+
+**Shadow** add or remove shadows to elements, allowing to create a visual effect of depth and elevation, enhancing the visual appearance of elements.
+
+**Size** adjust the size of elements, controling the visual dimensions and proportions of elements.
+
+* Bootstrap 5 Doc: [Border Doc](https://getbootstrap.com/docs/5.3/utilities/borders/)
+
+* Bootstrap 5 Doc: [Shadow Doc](https://getbootstrap.com/docs/5.3/utilities/shadows/)
+
+* Bootstrap 5 Doc: [Size Doc](https://getbootstrap.com/docs/5.3/utilities/sizing/)
+
+* Example: [Border and Shadow and Size Example](bootstrap-5/border_and_shadow_and_size.html)
+
+---
+
 #### Display & Columns Position
 
 **Display** utility classes controls the visibility and display behavior of elements. Allowing to show or hide elements, adjust their visibility based on different device sizes, and modify their display properties.
@@ -147,24 +175,6 @@ Spacing utility classes may easily manage and adjust the spacing within and betw
 * Bootstrap 5 Doc: [Spacing Doc](https://getbootstrap.com/docs/5.3/utilities/spacing/)
 
 * Example: [Spacing Example](bootstrap-5/spacing.html)
-
----
-
-#### Border, Shadow & Columns Size
-
-**Border** style the border and border-radius of an element. Add, remove, or customize borders for elements, control specific border sides and add rounded borders, can enhance the visual appeal and structure of elements.
-
-**Shadow** add or remove shadows to elements, allowing to create a visual effect of depth and elevation, enhancing the visual appearance of elements.
-
-**Size** adjust the size of elements, controling the visual dimensions and proportions of elements.
-
-* Bootstrap 5 Doc: [Border Doc](https://getbootstrap.com/docs/5.3/utilities/borders/)
-
-* Bootstrap 5 Doc: [Shadow Doc](https://getbootstrap.com/docs/5.3/utilities/shadows/)
-
-* Bootstrap 5 Doc: [Size Doc](https://getbootstrap.com/docs/5.3/utilities/sizing/)
-
-* Example: [Border and Shadow and Size Example](bootstrap-5/border_and_shadow_and_size.html)
 
 ---
 ---
