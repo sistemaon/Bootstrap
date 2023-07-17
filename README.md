@@ -76,6 +76,44 @@ Can implement own color mode toggle or themes, applying different color modes st
 ---
 ---
 
+### Forms
+
+#### Forms Overview
+
+Build various types of forms, including registration, login, profile pages and more, create stylish and functional forms for any other types of input-based interactions.
+
+**Form Control** Style textual inputs and textareas with support for multiple states.
+**Select** Improve browser default select elements with a custom initial appearance.
+**Checks & Ratios** Use our custom radio buttons and checkboxes in forms for selecting input options.
+**Range** Replace browser default range inputs with our custom version.
+**Input Group** Attach labels and buttons to your inputs for increased semantic value.
+**Floating Labels** Create beautifully simple form labels that float over your input fields.
+**Layout** Create inline, horizontal, or complex grid-based layouts with your forms.
+**Validation** Validate your forms with custom or native validation behaviors and styles.
+
+* Bootstrap 5 Doc: [Forms Doc](https://getbootstrap.com/docs/5.3/forms/overview/)
+
+* Bootstrap 5 Doc: [Form Control Doc](https://getbootstrap.com/docs/5.3/forms/form-control/)
+
+* Bootstrap 5 Doc: [Select Doc](https://getbootstrap.com/docs/5.3/forms/select/)
+
+* Bootstrap 5 Doc: [Checks and Radios Doc](https://getbootstrap.com/docs/5.3/forms/checks-radios/)
+
+* Bootstrap 5 Doc: [Range Doc](https://getbootstrap.com/docs/5.3/forms/range/)
+
+* Bootstrap 5 Doc: [Input Groups Doc](https://getbootstrap.com/docs/5.3/forms/input-group/)
+
+* Bootstrap 5 Doc: [Floating Labels Doc](https://getbootstrap.com/docs/5.3/forms/floating-labels/)
+
+* Bootstrap 5 Doc: [Layout Doc](https://getbootstrap.com/docs/5.3/forms/layout/)
+
+* Bootstrap 5 Doc: [Validation Doc](https://getbootstrap.com/docs/5.3/forms/validation/)
+
+* Example: [Forms Example](bootstrap-5/forms_and_input.html)
+
+---
+---
+
 ### Layout
 
 #### Breakpoints
