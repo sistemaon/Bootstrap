@@ -186,6 +186,39 @@ Build various types of forms, including registration, login, profile pages and m
 ---
 ---
 
+### Helpers
+
+#### Stretched Link
+
+Creat links that span the full width of their container, allowing to create clickable areas that extend horizontally to the edges of their parent containers.
+
+* Bootstrap 5 Doc: [Stretched Link Doc](https://getbootstrap.com/docs/5.3/helpers/stretched-link/)
+
+* Example: [Stretched Link Example](bootstrap-5/helpers_and_utilities.html)
+
+---
+
+#### Text Truncation
+
+Truncate long strings of text with an ellipsis.
+
+* Bootstrap 5 Doc: [Text Truncation Doc](https://getbootstrap.com/docs/5.3/helpers/text-truncation/)
+
+* Example: [Text Truncation Example](bootstrap-5/helpers_and_utilities.html)
+
+---
+
+#### Visually Hidden
+
+Visually hides content while keeping it accessible to assistive technologies like screen readers. It allows to hide elements from the visual display without completely removing them from the HTML structure.
+
+* Bootstrap 5 Doc: [Visually Hidden Doc](https://getbootstrap.com/docs/5.3/helpers/visually-hidden/)
+
+* Example: [Visually Hidden Example](bootstrap-5/helpers_and_utilities.html)
+
+---
+---
+
 ### Layout
 
 #### Breakpoints
@@ -282,6 +315,16 @@ Apply flexible and responsive layout behaviors based on CSS Flexbox, control the
 * Bootstrap 5 Doc: [Flex Doc](https://getbootstrap.com/docs/5.3/utilities/flex/)
 
 * Example: [Flex Example](bootstrap-5/flexbox.html)
+
+---
+
+#### Float
+
+Control the alignment and positioning of elements, allowing to float elements to the left or right, creating different layout arrangements and controlling their positioning within their parent containers.
+
+* Bootstrap 5 Doc: [Float Doc](https://getbootstrap.com/docs/5.3/utilities/float/)
+
+* Example: [Float Example](bootstrap-5/helpers_and_utilities.html)
 
 ---
 
