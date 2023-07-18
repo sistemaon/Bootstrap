@@ -82,13 +82,20 @@ Can implement own color mode toggle or themes, applying different color modes st
 
 Build various types of forms, including registration, login, profile pages and more, create stylish and functional forms for any other types of input-based interactions.
 
-**Form Control** Style textual inputs and textareas with support for multiple states.\
-**Select** Improve browser default select elements with a custom initial appearance.\
-**Checks & Radios** Use our custom radio buttons and checkboxes in forms for selecting input options.\
-**Range** Replace browser default range inputs with our custom version.\
-**Input Group** Attach labels and buttons to your inputs for increased semantic value.\
-**Floating Labels** Create beautifully simple form labels that float over your input fields.\
-**Layout** Create inline, horizontal, or complex grid-based layouts with your forms.\
+**Form Control** Style textual inputs and textareas with support for multiple states.
+
+**Select** Improve browser default select elements with a custom initial appearance.
+
+**Checks & Radios** Use our custom radio buttons and checkboxes in forms for selecting input options.
+
+**Range** Replace browser default range inputs with our custom version.
+
+**Input Group** Attach labels and buttons to your inputs for increased semantic value.
+
+**Floating Labels** Create beautifully simple form labels that float over your input fields.
+
+**Layout** Create inline, horizontal, or complex grid-based layouts with your forms.
+
 **Validation** Validate your forms with custom or native validation behaviors and styles.
 
 * Bootstrap 5 Doc: [Forms Doc](https://getbootstrap.com/docs/5.3/forms/overview/)
@@ -109,7 +116,9 @@ Build various types of forms, including registration, login, profile pages and m
 
 * Bootstrap 5 Doc: [Validation Doc](https://getbootstrap.com/docs/5.3/forms/validation/)
 
-* Example: [Forms Example](bootstrap-5/forms_and_input.html)
+* Example 00: [Forms Example](bootstrap-5/forms_and_input.html)
+
+* Example 01: [Form Validation Example](bootstrap-5/form_validation_display.html)
 
 ---
 ---
