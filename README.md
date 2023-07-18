@@ -81,6 +81,29 @@ Visually represent the progress or completion of a task or process, displaying p
 ---
 ---
 
+### Content
+
+#### Tables
+
+Allows to create structured and responsive tables for displaying presentation, tabular data.
+
+* Bootstrap 5 Doc: [Tables Doc](https://getbootstrap.com/docs/5.3/content/tables/)
+
+* Example: [Tables Example](bootstrap-5/tables.html)
+
+---
+
+#### Typography
+
+Typography simplify the design and formatting of textual content. Offering predefined styles and classes for headings, paragraphs, lists, body text, and more. Easily control font sizes, styles, and spacing to ensure consistent and visually pleasing text across different devices and screen sizes.
+
+* Bootstrap 5 Doc: [Typography Doc](https://getbootstrap.com/docs/5.3/content/typography/)
+
+* Example: [Typography Example](bootstrap-5/typography.html)
+
+---
+---
+
 ### Customize
 
 #### Dark Mode and Variables
@@ -182,19 +205,6 @@ Columns are a key component of the grid system used for creating responsive layo
 * Bootstrap 5 Doc: [Columns Doc](https://getbootstrap.com/docs/5.3/layout/columns/)
 
 * Example: [Grid and Columns Example](bootstrap-5/grid_and_columns.html)
-
----
----
-
-### Content
-
-#### Typography
-
-Typography simplify the design and formatting of textual content. Offering predefined styles and classes for headings, paragraphs, lists, body text, and more. Easily control font sizes, styles, and spacing to ensure consistent and visually pleasing text across different devices and screen sizes.
-
-* Bootstrap 5 Doc: [Typography Doc](https://getbootstrap.com/docs/5.3/content/typography/)
-
-* Example: [Typography Example](bootstrap-5/typography.html)
 
 ---
 ---
