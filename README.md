@@ -30,6 +30,16 @@ Visually highlight or display additional information alongside a piece of conten
 
 ---
 
+#### Breadcrumb
+
+Provides a navigation trail showing the user's current location within a hierarchical website structure. Displayed as a series of links separated by a separator symbol, allowing users to navigate back to previous pages or levels.
+
+* Bootstrap 5 Doc: [Breadcrumb Doc](https://getbootstrap.com/docs/5.3/components/breadcrumb/)
+
+* Example: [Breadcrumb Example](bootstrap-5/breadcrumb_and_pagination.html)
+
+---
+
 #### Buttons
 
 Create various button-related components to create interactive elements, clickable buttons with different styles and sizes. _Button Group_ groups related buttons together, _Button Toolbar_ organizes button groups in a visually aligned manner, _Dropdown Button_ combines a button with a dropdown menu and the _Split Button Dropdown_ combines a regular button with a separate dropdown button for secondary options.
@@ -67,6 +77,16 @@ Navigation header, used to create a responsive navigation bar or menu, provides 
 * Bootstrap 5 Doc: [Navbar Doc](https://getbootstrap.com/docs/5.3/components/navbar/)
 
 * Example: [Navbar Example](bootstrap-5/navbar.html)
+
+---
+
+#### Pagination
+
+Divide content into multiple pages, providing navigation links for users to move between pages. Navigating through long lists, tables, or other content that needs to be split into manageable sections.
+
+* Bootstrap 5 Doc: [Pagination Doc](https://getbootstrap.com/docs/5.3/components/pagination/)
+
+* Example: [Pagination Example](bootstrap-5/breadcrumb_and_pagination.html)
 
 ---
 
