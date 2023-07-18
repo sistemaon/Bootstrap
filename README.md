@@ -10,6 +10,16 @@ CSS Framework Bootstrap
 
 ### Components
 
+#### Alerts
+
+Displays contextual feedback messages, important or timely information, offering a visually appealing and attention-grabbing way to communicate with users.
+
+* Bootstrap 5 Doc: [Alerts Doc](https://getbootstrap.com/docs/5.3/components/alerts/)
+
+* Example: [Alerts Example](bootstrap-5/alerts_and_progress_bar.html)
+
+---
+
 #### Badges
 
 Visually highlight or display additional information alongside a piece of content, used to provide context, status, or notification indicators.
@@ -57,6 +67,16 @@ Navigation header, used to create a responsive navigation bar or menu, provides 
 * Bootstrap 5 Doc: [Navbar Doc](https://getbootstrap.com/docs/5.3/components/navbar/)
 
 * Example: [Navbar Example](bootstrap-5/navbar.html)
+
+---
+
+#### Progress Bar
+
+Visually represent the progress or completion of a task or process, displaying progress bars, indicating the percentage or status of an operation, giving users a visual indication of the progress being made.
+
+* Bootstrap 5 Doc: [Progress Bar Doc](https://getbootstrap.com/docs/5.3/components/progress/)
+
+* Example: [Progress Bar Example](bootstrap-5/alerts_and_progress_bar.html)
 
 ---
 ---
