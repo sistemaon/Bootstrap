@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+
+    <title>Bootstrap 5 | Accordion & Collapse</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="mb-5">Accordion & Collapse</h1>
+
+        <h3>Accordion</h3>
+        <div id="myaccordion" class="accordion">
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                        Accordion 1
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#myaccordion">
+                    <div class="accordion-body">
+                        Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Si num tem leite então bota uma pinga aí cumpadi!Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!Diuretics paradis num copo é motivis de denguis.
+                    </div>
+                </div>
+            </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                        Accordion 2
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#myaccordion">
+                    <div class="accordion-body">
+                        Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!Casamentiss faiz malandris se pirulitá.Interagi no mé, cursus quis, vehicula ac nisi.Delegadis gente finis, bibendum egestas augue arcu ut est.
+                    </div>
+                </div>
+            </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                        Accordion 3
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse show" data-bs-parent="#myaccordion">
+                    <div class="accordion-body">
+                        Mussum Ipsum, cacilds vidis litro abertis. Pra lá , depois divoltis porris, paradis.Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <br /><br />
+
+        <h3>Collapse</h3>
+        <div class="my-3">
+            <button class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#mycontent">
+                Toggle Content
+            </button>
+        </div>
+
+        <div class="collapse" id="mycontent">
+            <div class="card">
+                <div class="card-body">
+                    Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra sou euzis!Quem num gosta di mim que vai caçá sua turmis!Si num tem leite então bota uma pinga aí cumpadi!Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.
+                </div>
+            </div>
+        </div>
+
+        <br /><br />
+
+    </div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
