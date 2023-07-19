@@ -50,6 +50,17 @@ Create various button-related components to create interactive elements, clickab
 
 ---
 
+#### Dropdowns
+
+Allows to create interactive menus and content that can be toggled or expanded on interaction.
+Displaying options, additional actions, or submenus within a navigation menu or button group.
+
+* Bootstrap 5 Doc: [Dropdowns Doc](https://getbootstrap.com/docs/5.3/components/dropdowns/)
+
+* Example: [Dropdowns Example](bootstrap-5/dropdowns.html)
+
+---
+
 #### Cards
 
 Display content in a flexible and visually appealing manner, providing a container to organize and present various types of information such as text, images, and links in a consistent and structured format.
