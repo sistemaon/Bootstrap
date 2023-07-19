@@ -10,6 +10,16 @@ CSS Framework Bootstrap
 
 ### Components
 
+#### Accordion
+
+In combination with _Collapse JavaScript plugin_ accordion allows to create collapsible content sections where only one section is visible at a time, organizing and presenting a large amount of content in a compact and structured manner.
+
+* Bootstrap 5 Doc: [Accordion Doc](https://getbootstrap.com/docs/5.3/components/accordion/)
+
+* Example: [Accordion Example](bootstrap-5/accordion_and_collapse.html)
+
+---
+
 #### Alerts
 
 Displays contextual feedback messages, important or timely information, offering a visually appealing and attention-grabbing way to communicate with users.
@@ -68,6 +78,16 @@ Display content in a flexible and visually appealing manner, providing a contain
 * Bootstrap 5 Doc: [Cards Doc](https://getbootstrap.com/docs/5.3/components/card/)
 
 * Example: [Cards Example](bootstrap-5/cards.html)
+
+---
+
+#### Collapse
+
+Allows to toggle the visibility of content sections. It's versatile and can be used to create interactive and collapsible elements, such as accordions, collapsible panels, collapsible menus, or show/hide, making more manageable.
+
+* Bootstrap 5 Doc: [Collapse Doc](https://getbootstrap.com/docs/5.3/components/collapse/)
+
+* Example: [Collapse Example](bootstrap-5/accordion_and_collapse.html)
 
 ---
 
