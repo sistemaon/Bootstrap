@@ -81,6 +81,16 @@ Display content in a flexible and visually appealing manner, providing a contain
 
 ---
 
+#### Carousel
+
+Allows to create interactive slideshows or image carousels cycling through a set of content items, useful for showcasing multiple images or pieces of content in a visually appealing and interactive manner.
+
+* Bootstrap 5 Doc: [Cards Doc](https://getbootstrap.com/docs/5.3/components/carousel/)
+
+* Example: [Cards Example](bootstrap-5/carousel.html)
+
+---
+
 #### Collapse
 
 Allows to toggle the visibility of content sections. It's versatile and can be used to create interactive and collapsible elements, such as accordions, collapsible panels, collapsible menus, or show/hide, making more manageable.
