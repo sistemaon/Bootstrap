@@ -141,6 +141,16 @@ Visually represent the progress or completion of a task or process, displaying p
 
 ---
 
+#### Spinners
+
+Displays loading indicators showing content is being loaded or processed.
+
+* Bootstrap 5 Doc: [Spinners Doc](https://getbootstrap.com/docs/5.3/components/spinners/)
+
+* Example: [Spinners Example](bootstrap-5/spinners.html)
+
+---
+
 #### Toasts
 
 Allows displaying temporary and non-blocking notifications.
