@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+
+    <title>Bootstrap 5 | Popovers & Tooltips</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="mb-5">Popovers & Tooltips</h1>
+
+        <h3>Popover</h3>
+        <button class="btn btn-danger btn-lg" id="popover" data-bs-toggle="popover" data-bs-title="Mussum Ipsum"
+            data-bs-content="Praesent malesuada urna nisi, quis volutpat erat hendrerit non.">
+            Toggle Popover
+        </button>
+
+        <br /><br />
+
+        <h3>Tooltip</h3>
+        <p>
+            Mussum Ipsum, cacilds vidis litro abertis. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.
+            <a href="#" data-bs-toggle="tooltip" data-bs-title="Tooltip One">tooltip one</a> Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.Sapien in monti palavris qui num significa nadis i pareci latim.
+            <a href="#" data-bs-toggle="tooltip" data-bs-title="Tooltip Two">tooltip two</a> Si num tem leite então bota uma pinga aí cumpadi!Manduma pindureta quium dia nois paga.
+        </p>
+
+        <br /><br />
+
+    </div>
+
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const popoverEl = document.getElementById('popover');
+        const popover = new bootstrap.Popover(popoverEl);
+
+        const tooltipTriggerList = document.querySelectorAll(
+            '[data-bs-toggle="tooltip"]'
+        );
+
+        const tooltipList = [...tooltipTriggerList].map(
+            (tooltipTriggerEl) => new bootstrap.Tooltip(tooltipTriggerEl)
+        );
+    </script>
+</body>
+
+</html>
