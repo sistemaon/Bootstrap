@@ -140,6 +140,16 @@ Visually represent the progress or completion of a task or process, displaying p
 * Example: [Progress Bar Example](bootstrap-5/alerts_and_progress_bar.html)
 
 ---
+
+#### Toasts
+
+Allows displaying temporary and non-blocking notifications.
+
+* Bootstrap 5 Doc: [Toasts Doc](https://getbootstrap.com/docs/5.3/components/toasts/)
+
+* Example: [Toasts Example](bootstrap-5/toast.html)
+
+---
 ---
 
 ### Content
