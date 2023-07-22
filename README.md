@@ -141,6 +141,18 @@ Divide content into multiple pages, providing navigation links for users to move
 
 ---
 
+#### Popovers & Tooltips
+
+Allows to create small overlays or pop-up boxes that appear when hovers over or clicks on an element. Provide additional information or context about a specific element without navigating away or cluttering the main content.
+
+* Bootstrap 5 Doc: [Popovers Doc](https://getbootstrap.com/docs/5.3/components/popovers/)
+
+* Bootstrap 5 Doc: [Tooltips Doc](https://getbootstrap.com/docs/5.3/components/tooltips/)
+
+* Example: [Popovers and Tooltips Example](bootstrap-5/popovers_and_tooltips.html)
+
+---
+
 #### Progress Bar
 
 Visually represent the progress or completion of a task or process, displaying progress bars, indicating the percentage or status of an operation, giving users a visual indication of the progress being made.
