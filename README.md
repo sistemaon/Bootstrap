@@ -111,6 +111,16 @@ Displays a collection of items in a structured and visually appealing manner, al
 
 ---
 
+#### Modal
+
+Add dialogs that appear on top/front of the main content. Display additional information, forms, or interactions without navigating away from the current page. Create a focus on specific content and temporarily disable interactions with the rest of the page until the modal is closed.
+
+* Bootstrap 5 Doc: [Modal Doc](https://getbootstrap.com/docs/5.3/components/modal/)
+
+* Example: [Modal Example](bootstrap-5/modals.html)
+
+---
+
 #### Navbar
 
 Navigation header, used to create a responsive navigation bar or menu, provides a convenient way to include a header or a navigation section at the top of webpages, facilitating easy navigation and access to different sections, can effortlessly incorporate navigation links and dropdown menus.
