@@ -209,15 +209,19 @@ Typography simplify the design and formatting of textual content. Offering prede
 
 ### Customize
 
-#### Dark Mode and Variables
+#### Dark Mode & Variables & Toggle
 
 Can implement own color mode toggle or themes, applying different color modes styling templates. Customizing Bootstrap's variables.
+
+* Bootstrap 5 Doc: [Color Modes Doc](https://getbootstrap.com/docs/5.3/customize/color-modes/)
 
 * Bootstrap 5 Doc: [Dark Mode Doc](https://getbootstrap.com/docs/5.3/customize/color-modes/#dark-mode)
 
 * Bootstrap 5 Doc: [Variables Doc](https://getbootstrap.com/docs/5.3/customize/color-modes/#variables)
 
 * Example: [Dark Mode and Variables Example](bootstrap-5/darkmode_and_variables.html)
+
+* Example: [Toggle Dark Mode Example](bootstrap-5/darkmode_toggle.html)
 
 ---
 ---
