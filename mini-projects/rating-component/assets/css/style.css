@@ -1,0 +1,27 @@
+.message-container {
+    display: none;
+}
+
+@media (min-width: 600px) {
+    .container {
+        width: 600px;
+    }
+}
+
+@media (max-width: 449px) {
+    body>*:not(.message-container) {
+        display: none;
+    }
+    .message-container {
+        display: block;
+        background-color: #ff0000;
+        color: #ffffff;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 9999;
+    }
+}
