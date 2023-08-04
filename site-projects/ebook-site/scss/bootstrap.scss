@@ -1,4 +1,3 @@
-// Font
 $font-family-sans-serif: 'Open Sans', sans-serif;
 
 $primary: #c167ef;
@@ -39,5 +38,7 @@ $spacers: (
 
 $line-height-base: 1.7;
 $headings-margin-bottom: $spacer * 1;
+
+$enable-negative-margins: true;
 
 @import '../node_modules/bootstrap/scss/bootstrap';
